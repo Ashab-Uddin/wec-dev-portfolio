@@ -20,6 +20,12 @@
     border-radius: 5px;
     border: none;
 }
+/* header */
+    .header{
+        background-image: url('../images/developer.png'),url('../images/header_bg.png');
+        background-repeat: no-repeat;
+        background-position: top left, bottom right;
+    }
 /* Banner Styles    */
 .banner-greeting{
     font-weight: 500px;
